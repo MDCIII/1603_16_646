@@ -18,5 +18,6 @@
 <urn:mdciii:1603:16:646:0>
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:646:0" ;
-    skos:prefLabel "Rwanda"@eng-Latn, "Rwanda (le)"@fra-Latn, "U Rwanda"@kin-Latn .
+    skos:prefLabel "Rwanda"@eng-Latn, "Rwanda (le)"@fra-Latn, "U Rwanda"@kin-Latn ;
+    p:p297 "RW" .
 
