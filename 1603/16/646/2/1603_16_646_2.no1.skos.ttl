@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:646()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:11" ;
     skos:prefLabel "Nyarugenge"@eng-Latn ;
-    wdata:q7200235 "RW11" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -69,7 +67,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:12" ;
     skos:prefLabel "Gasabo"@eng-Latn ;
-    wdata:q7200235 "RW12" ;
 .
 
 <urn:mdciii:1603:16:646:2:13>
@@ -78,7 +75,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:13" ;
     skos:prefLabel "Kicukiro"@eng-Latn ;
-    wdata:q7200235 "RW13" ;
 .
 
 <urn:mdciii:1603:16:646:2:21>
@@ -87,7 +83,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:21" ;
     skos:prefLabel "Nyanza"@eng-Latn ;
-    wdata:q7200235 "RW21" ;
 .
 
 <urn:mdciii:1603:16:646:2:22>
@@ -96,7 +91,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:22" ;
     skos:prefLabel "Gisagara"@eng-Latn ;
-    wdata:q7200235 "RW22" ;
 .
 
 <urn:mdciii:1603:16:646:2:23>
@@ -105,7 +99,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:23" ;
     skos:prefLabel "Nyaruguru"@eng-Latn ;
-    wdata:q7200235 "RW23" ;
 .
 
 <urn:mdciii:1603:16:646:2:24>
@@ -114,7 +107,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:24" ;
     skos:prefLabel "Huye"@eng-Latn ;
-    wdata:q7200235 "RW24" ;
 .
 
 <urn:mdciii:1603:16:646:2:25>
@@ -123,7 +115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:25" ;
     skos:prefLabel "Nyamagabe"@eng-Latn ;
-    wdata:q7200235 "RW25" ;
 .
 
 <urn:mdciii:1603:16:646:2:26>
@@ -132,7 +123,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:26" ;
     skos:prefLabel "Ruhango"@eng-Latn ;
-    wdata:q7200235 "RW26" ;
 .
 
 <urn:mdciii:1603:16:646:2:27>
@@ -141,7 +131,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:27" ;
     skos:prefLabel "Muhanga"@eng-Latn ;
-    wdata:q7200235 "RW27" ;
 .
 
 <urn:mdciii:1603:16:646:2:28>
@@ -150,7 +139,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:28" ;
     skos:prefLabel "Kamonyi"@eng-Latn ;
-    wdata:q7200235 "RW28" ;
 .
 
 <urn:mdciii:1603:16:646:2:31>
@@ -159,7 +147,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:31" ;
     skos:prefLabel "Karongi"@eng-Latn ;
-    wdata:q7200235 "RW31" ;
 .
 
 <urn:mdciii:1603:16:646:2:32>
@@ -168,7 +155,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:32" ;
     skos:prefLabel "Rutsiro"@eng-Latn ;
-    wdata:q7200235 "RW32" ;
 .
 
 <urn:mdciii:1603:16:646:2:33>
@@ -177,7 +163,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:33" ;
     skos:prefLabel "Rubavu"@eng-Latn ;
-    wdata:q7200235 "RW33" ;
 .
 
 <urn:mdciii:1603:16:646:2:34>
@@ -186,7 +171,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:34" ;
     skos:prefLabel "Nyabihu"@eng-Latn ;
-    wdata:q7200235 "RW34" ;
 .
 
 <urn:mdciii:1603:16:646:2:35>
@@ -195,7 +179,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:35" ;
     skos:prefLabel "Ngororero"@eng-Latn ;
-    wdata:q7200235 "RW35" ;
 .
 
 <urn:mdciii:1603:16:646:2:36>
@@ -204,7 +187,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:36" ;
     skos:prefLabel "Rusizi"@eng-Latn ;
-    wdata:q7200235 "RW36" ;
 .
 
 <urn:mdciii:1603:16:646:2:37>
@@ -213,7 +195,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:37" ;
     skos:prefLabel "Nyamasheke"@eng-Latn ;
-    wdata:q7200235 "RW37" ;
 .
 
 <urn:mdciii:1603:16:646:2:41>
@@ -222,7 +203,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:41" ;
     skos:prefLabel "Rulindo"@eng-Latn ;
-    wdata:q7200235 "RW41" ;
 .
 
 <urn:mdciii:1603:16:646:2:42>
@@ -231,7 +211,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:42" ;
     skos:prefLabel "Gakenke"@eng-Latn ;
-    wdata:q7200235 "RW42" ;
 .
 
 <urn:mdciii:1603:16:646:2:43>
@@ -240,7 +219,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:43" ;
     skos:prefLabel "Musanze"@eng-Latn ;
-    wdata:q7200235 "RW43" ;
 .
 
 <urn:mdciii:1603:16:646:2:44>
@@ -249,7 +227,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:44" ;
     skos:prefLabel "Burera"@eng-Latn ;
-    wdata:q7200235 "RW44" ;
 .
 
 <urn:mdciii:1603:16:646:2:45>
@@ -258,7 +235,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:45" ;
     skos:prefLabel "Gicumbi"@eng-Latn ;
-    wdata:q7200235 "RW45" ;
 .
 
 <urn:mdciii:1603:16:646:2:51>
@@ -267,7 +243,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:51" ;
     skos:prefLabel "Rwamagana"@eng-Latn ;
-    wdata:q7200235 "RW51" ;
 .
 
 <urn:mdciii:1603:16:646:2:52>
@@ -276,7 +251,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:52" ;
     skos:prefLabel "Nyagatare"@eng-Latn ;
-    wdata:q7200235 "RW52" ;
 .
 
 <urn:mdciii:1603:16:646:2:53>
@@ -285,7 +259,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:53" ;
     skos:prefLabel "Gatsibo"@eng-Latn ;
-    wdata:q7200235 "RW53" ;
 .
 
 <urn:mdciii:1603:16:646:2:54>
@@ -294,7 +267,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:54" ;
     skos:prefLabel "Kayonza"@eng-Latn ;
-    wdata:q7200235 "RW54" ;
 .
 
 <urn:mdciii:1603:16:646:2:55>
@@ -303,7 +275,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:55" ;
     skos:prefLabel "Kirehe"@eng-Latn ;
-    wdata:q7200235 "RW55" ;
 .
 
 <urn:mdciii:1603:16:646:2:56>
@@ -312,7 +283,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:56" ;
     skos:prefLabel "Ngoma"@eng-Latn ;
-    wdata:q7200235 "RW56" ;
 .
 
 <urn:mdciii:1603:16:646:2:57>
@@ -321,6 +291,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:646:2:57" ;
     skos:prefLabel "Bugesera"@eng-Latn ;
-    wdata:q7200235 "RW57" ;
 .
 

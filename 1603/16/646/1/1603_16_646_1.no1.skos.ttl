@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:646()>
     a skos:Collection ;
@@ -23,7 +22,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kigali City"@eng-Latn ,
         "Ville de Kigali"@fra-Latn ,
         "Umujyi wa Kigali"@kin-Latn ;
-    wdata:q7200235 "RW1" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -50,7 +48,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Southern Province"@eng-Latn ,
         "Province du Sud"@fra-Latn ,
         "Amajyepfo"@kin-Latn ;
-    wdata:q7200235 "RW2" ;
 .
 
 <urn:mdciii:1603:16:646:1:3>
@@ -62,7 +59,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Western Province"@eng-Latn ,
         "Province de l'Ouest"@fra-Latn ,
         "Iburengerazuba"@kin-Latn ;
-    wdata:q7200235 "RW3" ;
 .
 
 <urn:mdciii:1603:16:646:1:4>
@@ -74,7 +70,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Northern Province"@eng-Latn ,
         "Province du Nord"@fra-Latn ,
         "Amajyaruguru"@kin-Latn ;
-    wdata:q7200235 "RW4" ;
 .
 
 <urn:mdciii:1603:16:646:1:5>
@@ -86,6 +81,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Eastern Province"@eng-Latn ,
         "Province de l'Est"@fra-Latn ,
         "Iburasirazuba"@kin-Latn ;
-    wdata:q7200235 "RW5" ;
 .
 
